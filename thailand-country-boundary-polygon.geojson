@@ -15,7 +15,7 @@
                 "description": "Shape"
             },
             "geometry": {
-                "type": "LineString",
+                "type": "Polygon",
                 "coordinates": [
                     [
                         [
